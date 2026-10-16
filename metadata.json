@@ -1,0 +1,6 @@
+{
+  "name": "PEPY Imóveis e Plantas",
+  "description": "Plataforma interativa de imóveis e plantas arquitetônicas com tour virtual 3D isométrico, exploração de pavimentos, simulação dia/noite e catálogo imobiliário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
